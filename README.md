@@ -45,9 +45,13 @@ It also supports optional formatting steps to prepare descriptive statistics and
 
 ## Project Structure
 SUB-FOLD-DB-Processing/
+
 ├── reformat_interpreter_obs.py # Main processing script
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Python package dependencies
+
 └── output/ # Processed CSV outputs
 
 ---
