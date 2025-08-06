@@ -61,3 +61,9 @@ It is recommended to create a dedicated Python environment.
 conda create -n subfold_env python=3.10
 conda activate subfold_env
 pip install -r requirements.txt
+```
+---
+
+## Notes:
+
+- Feel free to submit issues or pull requests for improvements to documentation.
